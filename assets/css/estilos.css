@@ -1,0 +1,19 @@
+body{
+  background: lightblue;
+}
+
+
+.card-deck{
+  padding: 30px;
+}
+
+.carousel-indicators li{
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+#carouselExampleIndicators{
+  padding: 35px;
+}
